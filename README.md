@@ -6,7 +6,7 @@ Curated by Emmanuel Gaillot (emmanuel.gaillot@gmail.com) and others - 2015.
 ----
 
 Things are essentially happening on [the wiki mentionned
-above](https://github.com/codecooking/codecooking.github.io/wiki).
+above](https://github.com/code-cooking/code-cooking.github.io/wiki).
 
 ## On contributing
 
